@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Owasee
 ---
 
 > Visualize Your Research and Make More Social Impact.
