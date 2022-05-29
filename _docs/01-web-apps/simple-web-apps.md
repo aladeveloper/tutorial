@@ -1,6 +1,6 @@
 ---
-title: Array
-category: Numpy
+title: Simple Web Apps
+category: Web Apps
 order: 1
 ---
 
