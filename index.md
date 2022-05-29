@@ -1,5 +1,5 @@
 ---
-title: DataLantip
+title: Aladeve Apps & Simulations
 ---
 
 > Visualize Your Research and Make More Social Impact.
