@@ -1,5 +1,5 @@
 ---
-title: Owasee
+title: DataLantip
 ---
 
 > Visualize Your Research and Make More Social Impact.
